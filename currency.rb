@@ -7,3 +7,5 @@ def eur_to_usd { eur => 1.00, usd => 1. 20}
   eur = 1.00
   usd = 1.20
 end
+
+def usd_to_jpy {usd
