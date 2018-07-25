@@ -12,4 +12,4 @@ def usd_to_jpy {usd => 1, jpy => 111}
   usd = 1
   jpy = 111
 end
-def usd_to_gbp {usd => 
+def usd_to_gbp {usd => 1, gbp => 
