@@ -1,6 +1,7 @@
 # Write your cod here
 def usd_to_eur
-  1.20 
+  usd = 1.20
+  eur = 1.00
 end
 def eur_to_usd
 end
